@@ -6,7 +6,7 @@ import os
 import difflib
 
 # Ändern Sie das Arbeitsverzeichnis zum gewünschten Verzeichnis
-os.chdir(r'C:\Users\jonas\TK PB')
+os.chdir(r'C:\Users\xxxx\xxxx')
 
 # Initialize text-to-speech engine with a male German voice
 engine = pyttsx3.init()
